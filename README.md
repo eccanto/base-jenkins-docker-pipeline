@@ -41,6 +41,10 @@ Default account:
 
 ![Job Example](documentation/images/job-example.png)
 
+### Job configuration
+
+![Job Configuration](documentation/images/job-configuration.png)
+
 ### Job execution
 
 ![Job Execution](documentation/images/job-execution.png)
