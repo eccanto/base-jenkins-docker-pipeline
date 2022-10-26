@@ -27,6 +27,24 @@ Jenkins deployment example with Docker Compose.
 docker-compose up
 ```
 
+Go to [http://localhost:8080/](http://localhost:8080/)
+
+Default account:
+  - username: `test`
+  - password: `test`
+
+### Home
+
+![Home](documentation/images/home.png)
+
+### Job example
+
+![Job Example](documentation/images/job-example.png)
+
+### Job execution
+
+![Job Execution](documentation/images/job-execution.png)
+
 # License
 
 [MIT](./LICENSE)
